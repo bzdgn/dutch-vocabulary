@@ -1,0 +1,48 @@
+1ᵉ      eerste
+2ᵉ      tweede
+3ᵉ      derde
+4ᵉ      vierde
+5ᵉ      vijfde
+6ᵉ      zesde
+7ᵉ      zevende
+8ᵉ      achtste
+9ᵉ      negende
+10ᵉ     tiende
+11ᵉ     elfde
+12ᵉ     twaalfde
+13ᵉ     dertiende
+14ᵉ     veertiende
+15ᵉ     vijftiende
+16ᵉ     zestiende
+17ᵉ     zeventiende
+18ᵉ     achttiende
+19ᵉ     negentiende
+20ᵉ     twintigste
+21ᵉ     eenentwintigste
+22ᵉ     tweeëntwintigste
+30ᵉ     dertigste
+40ᵉ     veertigste
+100ᵉ    honderdste
+1000ᵉ   duizendste
+
+Above 100       last 2 digits are important for de/ste
+
+105ᵉ    honderdvijfde
+365ᵉ    driehonderdvijfenzestigste
+
+een kwart       1/4
+de  helft       1/2
+een vijfde      1/5
+driekwart       3/4
+
+numerators
+----------
+1/4     een kwart, een vierde
+1/2     een helft
+3/4     drievierde
+
+1/3     eenderde
+1/5     eenvijfde
+2/6     tweezesde
+5/8     vijfachtste
+3/10    drietiende

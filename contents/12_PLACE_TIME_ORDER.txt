@@ -1,0 +1,6 @@
+Woord Volgorde : Word Order (Les 24)
+
+Time Order  : from big to small
+Place Order : from small to big
+
+Time first -> Place last

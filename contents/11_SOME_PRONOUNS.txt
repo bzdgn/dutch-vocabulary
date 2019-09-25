@@ -1,0 +1,25 @@
+Some Pronouns
+-------------
+
+Welk / Elk / Ieder: You can use for people and things
+Welk / Elk / Ieder: in plaats van "een"
+
+    Definite        |   Indefinite       |   Welk / Elk / Ieder                      |
+--------------------|--------------------|-------------------------------------------|
+de  de mooie vrouw  |   een mooie vrouw  |   welke vrouw / elke vrouw / iedere vrouw |
+het het mooie huis  |   een mooi huis    |   welk huis / elk huis / ieder huis       |
+--------------------------------------------------------------------------------------
+
+elk = ieder (the same!)
+
+iemand      somebody
+niemand     nobody
+iets        something
+niets       nothing
+ergens      somewhere
+nergens     nowhere
+
+geen        niet een (none -> not one)
+niets       niet iets
+niemand     niet iemand
+nergens     niet ergens   

@@ -1,0 +1,124 @@
+Willen
+------
+
+pr.         vorm
+--------|------
+ik      |   wil
+jij     |   wil/wilt        wil jij?    ( only 1 used in question: wil  )
+u       |   wil/wilt        wilt u?     ( only 1 used in question: wilt )
+hij     |   wil
+zij     |   wil
+wij     |   willen
+jullie  |   willen
+zij     |   willen
+
+
+
+Kunnen
+------
+
+pr.         vorm
+--------|------
+ik      |   kan
+jij     |   kan/kunt        kan jij? / kun jij?
+u       |   kan/kunt        kunt u?
+hij     |   kan
+zij     |   kan
+wij     |   kunnen
+jullie  |   kunnen
+zij     |   kunnen
+
+
+
+Mogen
+-----
+
+pr.         vorm
+--------|------
+ik      |   mag
+jij     |   mag             mag jij?
+u       |   mag             mag u?
+hij     |   mag
+zij     |   mag
+wij     |   mogen
+jullie  |   mogen
+zij     |   mogen
+
+
+Moeten
+------
+
+pr.         vorm
+--------|------
+ik      |   moet
+jij     |   moet            moet jij?
+u       |   moet            moet u?
+hij     |   moet
+zij     |   moet
+wij     |   moeten
+jullie  |   moeten
+zij     |   moeten
+
+
+Zullen
+------
+
+pr.         vorm
+--------|------
+ik      |   zal
+jij     |   zal/zult        zal / zul jij?
+u       |   zal/zult        zult u?
+hij     |   zal
+zij     |   zal
+wij     |   zullen
+jullie  |   zullen
+zij     |   zullen
+
+
+Zullen;
+-------
+1) Suggestion: always a question
+
+ik      --> zal ik?
+wij/we  --> zullen we?
+
+Zal ik vanavond koken?
+
+2) Promise
+
+Ik zal vanavond voor je koken.
+
+3) Probability
+
+zal .. wel ...
+
+Het eten zal wel lekker zijn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pr.         vorm
+--------|------
+ik      |   .
+jij     |   .
+u       |   .
+hij     |   .
+zij     |   .
+wij     |   .
+jullie  |   .
+zij     |   .

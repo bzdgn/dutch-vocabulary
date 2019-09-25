@@ -1,0 +1,35 @@
+Things
+------
+het woords --> het
+de  woords --> hij
+
+
+Object:                 De man ziet mij.
+Preposition + Object:   Hij loopt naar mij.
+
+Exception: Unstressed (je, me, ze) NOT with preposition. (de man ziet me WRONG!)
+
+SUBJECT     OBJECT      PREPOSITION + OBJECT
+-------     ------      --------------------
+ik          mij/me *    mij *
+jij/je      jou/je *    jou *
+u           u           u
+hij         hem         hem
+zij/ze      haar        haar
+wij/we      ons         ons
+jullie      jullie      jullie
+zij/ze      hen/ze *    hen *
+
+
+SUBJECT     POSSESSIVE ADJ.
+-------     ---------------
+ik          mijn
+jij/je      jouw/je
+u           uw
+hij         zijn
+zij/ze      haar
+wij/we      ons/onze
+jullie      jullie
+zij/ze      hun
+
+* Possessive Adjective replaces the article

@@ -1,0 +1,83 @@
+1) -en
+    - most of the case
+2) -s
+    - after e, é, ie, el, em, en, er
+3) -'s
+    - a, i, o, u, y
+
+
+-s comes after
+--------------
+-e      courgette       courgettes
+-é      café            café's
+-ie     vakantie        vakanties
+-el     regel           regels
+-em     modem           modems
+-en     teken           tekens
+-er     kamer           kamers
+
+-s' comes after
+---------------
+-a      camera          camera's
+-i      taxi            taxi's
+-o      foto            foto's
+-u      paraplu         paraplu's
+-y      baby            baby's
+
+
+MEERVOUDEN
+----------
+de  agenda          agenda's
+de  auto            auto's
+de  baby            baby's
+de  brief           brieven
+het boek            boeken
+de  boodschap       boodschappen
+de  boom            bomen
+het café (cafe)     cafés
+de  camera          camera's
+de  courgette       courgettes
+de  duif            duiven
+de  docent          docenten
+de  fiets           fietsen
+de  foto            foto's
+het huis            huizen
+de  jas             jassen
+de  jurk            jurken
+de  kaas            kazen
+de  kamer           kamers
+de  kanteen         kantines
+de  kast            kasten
+de  kat             katten
+de  klok            klokken
+de  krant           kranten
+de  kus             kussen
+de  maand           maanden
+de  man             mannen
+de  mand            manden
+de  minuut          minuten
+de  modem           modems
+de  paraplu         paraplu's
+de  persoon         personen
+de  pet             petten
+de  raaf            raven
+de  regel           regels
+de  rose            rozen
+de  schaar          scharen
+de  taart           taarten
+de  tafel           tafels
+de  tas             tassen
+de  taxi            taxi's
+het teken           tekens
+de  tekening        tekeningen
+het tijdschrift     tijdschriften
+de  tomaat          tomaten
+de  vakantie        vakanties
+het verhaal         verhalen
+de  voornaam        voornamen
+de  vork            vorken
+de  vrouw           vrouwen
+de  week            weken
+
+
+

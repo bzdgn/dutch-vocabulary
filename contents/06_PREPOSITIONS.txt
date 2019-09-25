@@ -1,0 +1,20 @@
+place
+-----
+in          in
+uit         out
+op          on
+boven       above
+onder       under
+voor        in front of
+achter      behind
+naast       next
+
+direction
+---------
+naar        towards
+
+time
+----
+op          exact dates: days
+om          time on clock
+in          months, years, seasons

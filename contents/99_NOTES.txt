@@ -1,0 +1,121 @@
+Plurals always 'de'
+Diminutives always 'het'
+
+het -> `t (höt, öt, het)
+
+hebben & zijn
+-------------
+U hebt, U heeft
+Jij bent, U bent
+
+
+In Dutch, words never end on double same consonant!
+
+---------------------------------------------------------------
+|    .                   definite            indefinite       |
+|    .                   --------            -----------------|
+|    de  woords          de  mooiE vrouw     een mooiE vrouw  |
+|    het woords          het mooiE huis      een mooi  huis   |
+---------------------------------------------------------------
+
+
+? hok               dog huis (de of het?)
+
+Numbers
+-------
+until 21 --> Write in words
+from  22 --> Write in digits
+
+thousands --> 10.000        Use period
+amounts ----> €18,94        Use comma
+
+Numbers + plural
+
+Number + singular
+-----------------
+euro        gram
+uur         meter
+jaar        centimeter
+kilo        kilometer
+
+Dates
+-----
+14-05-2015
+14 mei 2015
+
+Separable Verbs
+---------------
+The stress is on the first part (prefix)
+
+opstaan
+opendoen
+aankomen
+meenemen
+uitgaan
+afspreken
+afwassen
+uitrusten
+nakijken
+invullen
+
+Onseparable Verbs
+-----------------
+Stress is on the second part! (middle)
+
+achterVOLgen
+verTREKken
+overTUIgen
+
+achtervolgen
+vertrekken
+overtuigen
+aanvaarden
+omschrijven
+ondervragen
+verdelen
+herhalen
+
+Vandale -> om-schrij-ven
+                   _
+.
+Stressed part is underlined in Van Dale!
+
+voorkomen       voorkomen
+    __          ____
+
+to prevent      to appear
+(inseparable)   (separable)
+
+
+
+Reflexive Verbs
+---------------
+zich vergissen
+zich herinneren
+zich schamen
+zich vervelen
+zich haasten
+zich verslikken
+zich verspreken
+
+
+Reflexive Verbs by Accident
+---------------------------
+(zich) wassen
+(zich) scheren
+(zich) snijden
+(zich) inschrijven (separable)
+
+pr.         vorm
+--------|------
+ik      |   me
+jij     |   je
+u       |   zich
+hij     |   zich
+zij     |   zich
+wij     |   ons
+jullie  |   je
+zij     |   zich
+
+
+

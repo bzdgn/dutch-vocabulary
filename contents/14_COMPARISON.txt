@@ -1,0 +1,29 @@
+klein       kleiner         het kleinst         kleiner dan
+mooi        mooier          het mooist          mooier dan
+moeilijk    moeilijker      het moeilijkst      moeilijker dan
+groot       groter          het grootst
+hoog        hoger           het hoogst
+laag        lager           het laagst
+dik         dikker          het dikst
+dun         dunner          het dunst
+lief        liever          het liefst
+vies        viezer          het viest
+goed        beter           het best
+graag       liever          het liefst
+weinig      minder          het minst
+veel        meer            het meest (het meeste geld)
+
+het meeste      geld        meest -> meeste
+de  kleinste    auto        kleinst -> kleinste
+het grootste    huis        grootst -> grootste
+de  liefste     moeder      liefst -> liefste
+
+een kleinere auto       (de auto)
+een groter huis         (het huis)
+een jongere vrouw       (de vrouw)
+
+groot -> even groot (esitlik - equality)
+
+X is even groot als Y
+
+

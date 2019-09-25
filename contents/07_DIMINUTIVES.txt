@@ -1,0 +1,60 @@
+Rules
+-----
+
+1. mostly                       -je
+2. after vowel or l,n,r,w       -tje
+3. after m                      -pje
+4. unstressed -ing              -inkje
+5. some cases (irregular)       -etje
+
+de  bril        het brilletje
+de  boom        het boompje
+het eind        het eindje
+het eten        het etentje
+de  fles        het flesje
+het kind        het kindje
+de  koning      het koninkje
+de  krant       het krantje
+de  kroeg       het kroegje
+het land        het landje
+het papier      het papiertje
+de  pauze       het pauzetje
+het raam        het raampje
+de  regel       het regeltje
+de  schat       het schatje
+de  schoon      het schoentje
+het spel        het spelletje
+de  vrouw       het vrouwtje
+de  woning      het woninkje
+
+Examples
+--------
+
+1. mostly                       -je
+-----------------------------------
+land        landje
+kind        kindje
+fles        flesje
+
+2. after vowel or l,n,r,w       -tje
+------------------------------------
+papier      papiertje
+pauze       pauzetje
+regel       regeltje
+schoen      schoentje
+vrouw       vrouwtje
+
+3. after m                      -pje
+-------------------------------------
+boom        boompje
+raam        raampje
+
+4. unstressed -ing              -inkje
+--------------------------------------
+koning      koninkje
+woning      woninkje
+
+5. some cases (irregular)       -etje
+-------------------------------------
+spel        spelletje
+bril        brilletje
