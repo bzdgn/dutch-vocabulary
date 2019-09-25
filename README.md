@@ -442,6 +442,7 @@ betalen        | heb betaald       | betaalde      | betaalden     | to pay     
 bezoeken       | heb bezocht       | bezocht       | bezochten     | to visit                              |
 bezorgen       | heb bezorgd       | bezorgde      | bezorgden     | to deliver                            |
 blijven        | ben gebleven      | bleef         | bleven        | to stay, to remain                    |
+boeken         | heb geboekt       | boekte        | boekten       | to book                               |
 dansen         | heb gedanst       | danste        | dansten       | to dance                              |
 delen          | heb gedeeld       | deelde        | deelden       | to share                              |
 doen           | heb gedaan        | deed          | deden         | to do                                 |
