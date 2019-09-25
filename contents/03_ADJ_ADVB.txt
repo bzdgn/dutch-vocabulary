@@ -22,18 +22,18 @@ druk            busy, crowded
 dun             thin
 duur            expensive
 eerlijk         fair, fairly, honest, honestly
-erg             very, much, very much / severe, seriuos, terrible, awful
+erg             very much / severe, terrible, awful
 fout            wrong, incorrect
 gezellig        cozy
 gisteren        yesterday
 genoeg          enough
-gewoon          just (adv), regular, ordinary, normal (adj)
+gewoon          | just(adv), regular, ordinary, normal(adj)
 goed            good
 goedkoop        cheap
 graag           gladly, willingly
 groen           green
 groot           great
-jarig           having one's birthday (adjective'mis)       Hij is jarig.
+jarig           having one's birthday (Hij is jarig)
 hard            hard
 hartstikke      extremily, (awful)
 heel            very/much
