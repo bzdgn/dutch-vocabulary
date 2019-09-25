@@ -24,8 +24,125 @@ placeholder placeholder placeholder placeholder
 -------------------------
 | dutch meaning | english meaning |
 | --- | --- |
-| dutch word 1 | english word 1 |
-| dutch word 2 | english word 2 |
+| aan             | on                                                         |
+| af              | off                                                        |
+| aardig          | nice                                                       |
+| achter          | behind                                                     |
+| al              | already                                                    |
+| alleen          | only, alone                                                |
+| altijd          | always                                                     |
+| arm             | poor                                                       |
+| behalve         | except                                                     |
+| bijna           | almost                                                     |
+| binnen          | inside                                                     |
+| binnenkort      | shortly                                                    |
+| blauw           | blue                                                       |
+| boos            | angry                                                      |
+| boven           | above, upstairs                                            |
+| buiten          | outside                                                    |
+| daar            | there                                                      |
+| dik             | fat                                                        |
+| donker          | dark                                                       |
+| door            | through                                                    |
+| druk            | busy, crowded                                              |
+| dun             | thin                                                       |
+| duur            | expensive                                                  |
+| eerlijk         | fair, fairly, honest, honestly                             |
+| erg             | very, much, very much / severe, seriuos, terrible, awful   |
+| fout            | wrong, incorrect                                           |
+| gezellig        | cozy                                                       |
+| gisteren        | yesterday                                                  |
+| genoeg          | enough                                                     |
+| gewoon          | just (adv), regular, ordinary, normal (adj)                |
+| goed            | good                                                       |
+| goedkoop        | cheap                                                      |
+| graag           | gladly, willingly                                          |
+| groen           | green                                                      |
+| groot           | great                                                      |
+| jarig           | having one's birthday (adjective'mis)       Hij is jarig.  |
+| hard            | hard                                                       |
+| hartstikke      | extremily, (awful)                                         |
+| heel            | very/much                                                  |
+| hier            | here                                                       |
+| hoog            | high                                                       |
+| in              | in                                                         |
+| interessant     | interesting                                                |
+| klein           | small                                                      |
+| knap            | good looking                                               |
+| kort            | short                                                      |
+| koud            | cold                                                       |
+| laag            | low                                                        |
+| laat            | late                                                       |
+| lang            | long                                                       |
+| langzaam        | slow                                                       |
+| leeg            | empty                                                      |
+| lekker          | tasty, yummy                                               |
+| lelijk          | ugly                                                       |
+| leuk            | nice                                                       |
+| licht           | light                                                      |
+| lief            | sweet, cute, lovely                                        |
+| meestal         | mostly, usually                                            |
+| met             | with                                                       |
+| moe             | tired                                                      |
+| moeilijk        | difficult                                                  |
+| mooi            | beautiful                                                  |
+| morgen          | tomorrow                                                   |
+| na              | after                                                      |
+| nieuw           | new                                                        |
+| nog             | yet                                                        |
+| nog steeds      | still                                                      |
+| nogal           | quite                                                      |
+| nu              | now                                                        |
+| onder           | below                                                      |
+| ongeveer        | about, approximately                                       |
+| ongezellig      | not cozy                                                   |
+| onzijdig        | neutral                                                    |
+| op              | on                                                         |
+| op dit moment   | at the moment                                              |
+| oud             | old                                                        |
+| pas             | only                                                       |
+| plat            | flat                                                       |
+| redelijk        | reasonable                                                 |
+| regelmatig      | regularly                                                  |
+| religieus       | religious                                                  |
+| rijk            | rich                                                       |
+| rond            | round, around                                              |
+| rood            | red                                                        |
+| rustig          | quiet                                                      |
+| saai            | boring                                                     |
+| schoon          | clean                                                      |
+| slecht          | bad                                                        |
+| slim            | smart                                                      |
+| snel            | fast, quick, rapid                                         |
+| soms            | sometimes                                                  |
+| spannend        | exciting                                                   |
+| sporadisch      | sporadically                                               |
+| stom            | stupid                                                     |
+| stout           | naughty                                                    |
+| straks          | later                                                      |
+| tijdens         | during                                                     |
+| typisch         | typical                                                    |
+| uit             | out, from                                                  |
+| vaak            | often                                                      |
+| vandaag         | today                                                      |
+| vandaan         | from                                                       |
+| ver             | far                                                        |
+| verschrikkelijk | terribly                                                   |
+| vies            | dirty                                                      |
+| vol             | full                                                       |
+| volgend         | next                                                       |
+| volgens         | according to                                               |
+| voor            | in front of, before                                        |
+| vreemd          | strange                                                    |
+| vuil            | dirty                                                      |
+| warm            | warm                                                       |
+| zacht           | soft                                                       |
+| zeer            | very/much                                                  |
+| zelden          | rarely                                                     |
+| ziek            | sick                                                       |
+| zo              | so                                                         |
+| zonder          | without                                                    |
+| zwart           | black                                                      |
 
 [Go back to TOC](#toc)
 
