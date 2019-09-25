@@ -1,6 +1,6 @@
 Dutch Vocabulary For English Learners
 ===================================
-These are my vocabulary notes while I'm learning Dutch. I find it usefule for others thus, I've created this repository. I hope that especially expats in Netherlands find this repository useful.
+These are my vocabulary notes while I'm learning Dutch. I find it useful for others thus, I've created this repository. I hope that especially expats in Netherlands find this repository useful.
 
 TOC
 ---
