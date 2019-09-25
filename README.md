@@ -6,10 +6,10 @@ placeholder placeholder placeholder placeholder
 
 TOC
 ---
-- [0 Introduction <br/>
-- [1 Adjectives And Adverbs <br/>
-- [2 Nouns <br/>
-- [3 Verbs <br/>
+- [0 Introduction]<br/>
+- [1 Adjectives And Adverbs]<br/>
+- [2 Nouns]<br/>
+- [3 Verbs]<br/>
 
  0 Introduction
 ---------------
