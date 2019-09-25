@@ -32,10 +32,10 @@ placeholder placeholder placeholder placeholder
 
  2 Nouns
 --------
-| dutch meaning | english meaning |
-| --- | --- |
-| dutch word 1 | english word 1 |
-| dutch word 2 | english word 2 |
+| article | dutch meaning | english meaning |
+| --- | --- | --- |
+| article 1 | dutch word 1 | english word 1 |
+| article 2 | dutch word 2 | english word 2 |
 
 [Go back to TOC](#toc)
 
