@@ -1,8 +1,6 @@
-placeholder placeholder placeholder
+Dutch Vocabulary For English Learners
 ===================================
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder
+These are my vocabulary notes while I'm learning Dutch. I find it usefule for others thus, I've created this repository. I hope that especially expats in Netherlands find this repository useful.
 
 TOC
 ---
@@ -13,9 +11,9 @@ TOC
 
  0 Introduction
 ---------------
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder
+This repository consist of three parts. First part consists of Adjectives and Adverbs list, the second part consists of nouns and third part consists of verbs.
+
+Notify that every noun is saved with the article, because you need to learn every noun in dutch with article. I'll update this repository as I progress.
 
 [Go back to TOC](#toc)
 
