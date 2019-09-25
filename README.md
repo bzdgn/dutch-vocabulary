@@ -520,7 +520,7 @@ verdelen       | heb verdeeld      | verdeelde     | verdeelden    | to distribu
 vergeten       | heb vergeten      | vergat        | vergaten      | to forget                             |
 vergissen      | heb vergist       | vergiste      | vergisten     | to make self mistake (zich)           |
 vertellen      | heb verteld       | vertelde      | vertelden     | to tell                               |
-vertrekken     | heb vertrokken    | vertrok       | vertrokken    | to depart, to leave                   |
+vertrekken     | ben vertrokken    | vertrok       | vertrokken    | to depart, to leave                   |
 vervelen       | heb verveeld      | verveelde     | verveelden    | to be bored (zich)                    |
 vieren         | heb gevierd       | vierde        | vierden       | to celebrate                          |
 vinden         | heb gevonden      | vond          | vonden        | to find                               |
