@@ -22,27 +22,30 @@ placeholder placeholder placeholder placeholder
 
  1 Adjectives And Adverbs
 -------------------------
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder 
+| dutch meaning | english meaning |
+| --- | --- |
+| dutch word 1 | english word 1 |
+| dutch word 2 | english word 2 |
 
 [Go back to TOC](#toc)
 
 
  2 Nouns
 --------
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder
+| dutch meaning | english meaning |
+| --- | --- |
+| dutch word 1 | english word 1 |
+| dutch word 2 | english word 2 |
 
 [Go back to TOC](#toc)
 
 
  3 Verbs
 --------
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder 
-placeholder placeholder placeholder placeholder
+| dutch infinitive | present perfect | past singular | past plural | english meaning |
+| --- | --- | --- | --- | --- |
+| dutch infinitive 1 | present perfect form 1 | past singular 1 | past plural 1 | english meaning 1 |
+| dutch infinitive 2 | present perfect form 2 | past singular 2 | past plural 2 | english meaning 2 |
 
 [Go back to TOC](#toc)
 
