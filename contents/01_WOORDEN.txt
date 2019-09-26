@@ -195,6 +195,7 @@ het spul                stuff, junk
 de  spullen             stuff(plural)
 de  staart              tail
 de  stad                city
+de  stamppot            stamppot (dutch food)
 de  stem                voice
 de  straat              street
 de  straf               punishment

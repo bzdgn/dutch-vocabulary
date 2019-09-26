@@ -56,7 +56,7 @@ Notify that every noun is saved with the article, because you need to learn ever
 | goedkoop        | cheap                                    |
 | graag           | gladly, willingly                        |
 | groen           | green                                    |
-| groot           | great                                    |
+| groot           | big, large, tall                         |
 | jarig           | having one's birthday (Hij is jarig)     |
 | hard            | hard                                     |
 | hartstikke      | extremily, (awful)                       |
@@ -346,6 +346,7 @@ Notify that every noun is saved with the article, because you need to learn ever
 | de  | spullen             | stuff(plural)                                 |
 | de  | staart              | tail                                          |
 | de  | stad                | city                                          |
+| de  | stamppot            | stamppot (dutch food)                         |
 | de  | stem                | voice                                         |
 | de  | straat              | street                                        |
 | de  | straf               | punishment                                    |
