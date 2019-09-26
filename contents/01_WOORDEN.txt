@@ -121,7 +121,8 @@ de  lepel               spoon
 de  les                 lesson
 het leven               life
 het licht               light
-het lidje               song
+het lid                 member
+het liedje              song
 het lidwoord            article
 de  lijn                line
 de  maand               month

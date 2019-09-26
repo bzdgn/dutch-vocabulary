@@ -33,7 +33,7 @@ hangen              heb gehangen        hing            hingen              to h
 hebben              heb gehad           had             hadden              to have
 helpen              heb geholpen        hielp           hielpen             to help
 herhalen            heb herhaald        herhaalde       herhaalden          to repeat
-herinneren          heb herinnerd       herinnerde      herrinerden         to remember (zich)
+herinneren          heb herinnerd       herinnerde      herinnerden         to remember (zich)
 heten               heb geheten         heette          heetten             to be named, to be called
 horen               heb gehoord         hoorde          hoorden             to hear
 houden              heb gehouden        hield           hielden             to keep
@@ -88,7 +88,7 @@ studeren            heb gestudeerd      studeerde       studeerden          to s
 tennissen           heb getennist       tenniste        tennisten           to play tennis
 trekken             heb getrokken       trok            trokken             to pull
 uitgaan             ben uitgegaan       ging uit        gingen uit          to go out
-uitrusten           heb uitgerust       rustte uit      russten uit         to rest
+uitrusten           heb uitgerust       rustte uit      rustten uit         to rest
 verdelen            heb verdeeld        verdeelde       verdeelden          to distribute/ to divide (ulestirmek)
 vergeten            heb vergeten        vergat          vergaten            to forget
 vergissen           heb vergist         vergiste        vergisten           to make self mistake (zich)
