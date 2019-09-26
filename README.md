@@ -15,6 +15,8 @@ This repository consist of three parts. First part consists of Adjectives and Ad
 
 Notify that every noun is saved with the article, because you need to learn every noun in dutch with article. I'll update this repository as I progress.
 
+**TIP**: Please note that it would be better to study this repository in addition with the my Dutch Grammar repository: [dutch-grammar-for-english-learners](https://github.com/bzdgn/dutch-grammar-for-english-learners#toc)
+
 [Go back to TOC](#toc)
 
 
