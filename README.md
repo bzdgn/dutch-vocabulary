@@ -245,7 +245,7 @@ Notify that every noun is saved with the article, because you need to learn ever
 | de  | kaart               | map                                           |
 | de  | kaas                | cheese                                        |
 | de  | kamer               | room                                          |
-| de  | kanteen             | canteen                                       |
+| de  | kantine             | canteen                                       |
 | het | kantoor             | office                                        |
 | de  | kapper              | hairdresser                                   |
 | de  | kast                | wardrope, closet                              |
