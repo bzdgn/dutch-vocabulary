@@ -306,6 +306,8 @@ Notify that every noun is saved with the article, because you need to learn ever
 | het | orkest              | orchestra                                     |
 | de  | ouder               | parent                                        |
 | het | paard               | horse                                         |
+| de  | pad                 | toad                                          |
+| het | pad                 | path                                          |
 | de  | pagina              | page                                          |
 | de  | pakket              | package, packet                               |
 | het | papier              | paper                                         |
@@ -331,6 +333,7 @@ Notify that every noun is saved with the article, because you need to learn ever
 | de  | rose                | rose                                          |
 | de  | schaar              | scissors                                      |
 | de  | schat               | treasure, honey, darling                      |
+| het | schild              | shield                                        |
 | de  | schoen              | shoe                                          |
 | de  | school              | school                                        |
 | de  | schrijver           | writer                                        |
@@ -422,6 +425,7 @@ Notify that every noun is saved with the article, because you need to learn ever
 | de  | zoon                | son                                           |
 | de  | zonneschijn         | sunshine                                      |
 | de  | zus                 | sister                                        |
+
 
 [Go back to TOC](#toc)
 
