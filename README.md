@@ -402,7 +402,7 @@ Notify that every noun is saved with the article, because you need to learn ever
 | het | water               | water                                         |
 | de  | week                | week                                          |
 | de  | was                 | laundry                                       |
-| de  | waslijn             | cloths line                                   |
+| de  | waslijn             | clothes line                                  |
 | de  | weg                 | way                                           |
 | de  | wei                 | pasture, meadow (otlak), grass                |
 | het | weekend             | weekend                                       |
