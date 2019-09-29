@@ -17,7 +17,7 @@ Notify that every noun is saved with the article, because you need to learn ever
 
 **TIP**: Please note that it would be better to study this repository in addition with my other dutch language related repositories;
 
-- Dutch Grammar repository: [dutch-grammar-for-english-learners](https://github.com/bzdgn/dutch-grammar-for-english-learners#toc)
+- Dutch Grammar repository: [dutch-grammar-for-english-speakers](https://github.com/bzdgn/dutch-grammar-for-english-speakers#toc)
 - Technical Dutch For Software Developers repository: [technical-dutch-for-software-developers](https://github.com/bzdgn/technical-dutch-for-software-developers#toc)
 
 
