@@ -249,7 +249,7 @@ de  waarschijnlijkheid  probability
 het water               water
 de  week                week
 de  was                 laundry
-de  waslijn             cloth line
+de  waslijn             cloths line
 de  weg                 way
 de  wei                 pasture, meadow (otlak), grass
 het weekend             weekend
