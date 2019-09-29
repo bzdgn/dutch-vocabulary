@@ -1,5 +1,5 @@
 1) -en
-    - most of the case
+    - in most cases
 2) -s
     - after e, é, ie, el, em, en, er
 3) -'s
