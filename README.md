@@ -438,117 +438,122 @@ Notify that every noun is saved with the article, because you need to learn ever
 --------
 | dutch infinitive | present perfect | past singular | past plural | english meaning |
 | --- | --- | --- | --- | --- |
-aankomen       | ben aangekomen    | kwam aan      | kwamen aan    | to arrive                             |
-aanvaarden     | heb aanvaard      | aanvaardde    | aanvaardden   | to accept (for ex: accepting excuses) |
-achtervolgen   | heb achtervolgd   | achtervolgde  | achtervolgden | to chase, to pursue                   |
-afspreken      | heb afgesproken   | sprak af      | spraken af    | to arrange                            |
-afwassen       | heb afgewassen    | waste af      | wasten af     | to wash off the dishes                |
-antwoorden     | heb geantwoord    | antwoordde    | antwoordden   | to answre                             |
-autorijden     | heb autogereden   | reed auto     | reden auto    | to drive car                          |
-bakken         | heb gebakken      | bakte         | bakten        | to bake                               |
-beginnen       | ben begonnen      | begon         | begonnen      | to begin                              |
-bellen         | heb gebeld        | belde         | belden        | to call (by phone), to bell           |
-bestaan        | heb bestaan       | bestond       | bestonden     | to exist                              |
-bestellen      | heb besteld       | bestelde      | bestelden     | to order                              |
-betalen        | heb betaald       | betaalde      | betaalden     | to pay                                |
-bezoeken       | heb bezocht       | bezocht       | bezochten     | to visit                              |
-bezorgen       | heb bezorgd       | bezorgde      | bezorgden     | to deliver                            |
-blijven        | ben gebleven      | bleef         | bleven        | to stay, to remain                    |
-boeken         | heb geboekt       | boekte        | boekten       | to book, to reserve                   |
-dansen         | heb gedanst       | danste        | dansten       | to dance                              |
-delen          | heb gedeeld       | deelde        | deelden       | to share                              |
-doen           | heb gedaan        | deed          | deden         | to do                                 |
-dragen         | heb gedragen      | droeg         | droegen       | to wear, to carry                     |
-drinken        | heb gedronken     | dronk         | dronken       | to drink                              |
-duwen          | heb geduwd        | duwde         | duwden        | to push                               |
-eten           | heb gegeten       | at            | aten          | to eat                                |
-fietsen        | heb gefietst      | fietste       | fietsten      | to bike                               |
-gaan           | ben gegaan        | ging          | gingen        | to go                                 |
-gebruiken      | heb gebruikt      | gebruikte     | gebruikten    | to use                                |
-genieten       | heb genieten      | genoot        | genoten       | to enjoy                              |
-geven          | heb gegeven       | gaf           | gaven         | to give                               |
-haasten        | heb gehaast       | haastte       | haastten      | to hurry (zich)                       |
-halen          | heb gehaald       | haalde        | haalden       | to fetch, to get                      |
-hangen         | heb gehangen      | hing          | hingen        | to hang                               |
-hebben         | heb gehad         | had           | hadden        | to have                               |
-helpen         | heb geholpen      | hielp         | hielpen       | to help                               |
-herhalen       | heb herhaald      | herhaalde     | herhaalden    | to repeat                             |
-herinneren     | heb herinnerd     | herinnerde    | herinnerden   | to remember (zich)                    |
-heten          | heb geheten       | heette        | heetten       | to be named, to be called             |
-horen          | heb gehoord       | hoorde        | hoorden       | to hear                               |
-houden         | heb gehouden      | hield         | hielden       | to keep                               |
-houden van     | heb gehouden van  | hield van     | hielden van   | to love                               |
-invullen       | heb ingevuld      | vulde in      | vulden in     | to fill in                            |
-kennen         | heb gekend        | kende         | kenden        | to know                               |
-kijken         | heb gekeken       | keek          | keken         | to look / to watch                    |
-koken          | heb gekookt       | kookte        | kookten       | to cook                               |
-komen          | ben gekomen       | kwam          | kwamen        | to come                               |
-kopen          | heb gekocht       | kocht         | kochten       | to buy                                |
-krijgen        | heb gekregen      | kreeg         | kregen        | to get, to receive                    |
-laten          | heb gelaten       | liet          | lieten        | to let                                |
-lenen          | heb geleend       | leende        | leenden       | to borrow                             |
-leren          | heb geleerd       | leerde        | leerden       | to learn, to teach                    |
-leven          | heb geleefd       | leefde        | leefden       | to live                               |
-lezen          | heb gelezen       | las           | lazen         | to read                               |
-liegen         | heb gelogen       | loog          | logen         | to lie, to tell lies                  |
-liggen         | heb gelegen       | lag           | lagen         | to lie, to be lying down              |
-lopen          | heb gelopen       | liep          | liepen        | to walk                               |
-luisteren      | heb geluisterd    | luisterde     | luisterden    | to listen                             |
-maken          | heb gemaakt       | maakte        | maakten       | to make                               |
-meenemen       | heb meegenomen    | nam mee       | namen mee     | to take along, to carry off/along     |
-missen         | heb gemist        | miste         | misten        | to miss                               |
-nakijken       | heb nagekeken     | keek na       | keken na      | to check, to review                   |
-nemen          | heb genomen       | nam           | namen         | to take                               |
-oefenen        | heb geoefend      | oefende       | oefenden      | to exercise, to practice, to train    |
-omschrijven    | heb omschreven    | omschreef     | omschreven    | to describe                           |
-ondervragen    | heb ondervraagd   | ondervroeg    | ondervroegen  | to interrogate                        |
-opendoen       | heb opengedaan    | deed open     | deden open    | to open                               |
-opstaan        | ben opgestaan     | stond op      | stonden op    | to get up                             |
-organiseren    | heb georganiseerd | organiseerde  | organiseerden | to organize                           |
-overtuigen     | heb overtuigd     | overtuigde    | overtuigden   | to convince                           |
-parkeren       | heb geparkeerd    | parkeerde     | parkeerden    | to park                               |
-praten         | heb gepraat       | praatte       | praatten      | to talk                               |
-regenen        | heb geregend      | regende       | regenden      | to rain                               |
-regeren        | heb geregeerd     | regeerde      | regeerden     | to govern, to rule                    |
-repareren      | heb gerepareerd   | repareerde    | repareerden   | to repair                             |
-rijden         | heb gereden       | reed          | reden         | to ride                               |
-rinkelen       | heb gerinkeld     | rinkelde      | rinkelden     | to ring, to make ringing sound        |
-roken          | heb gerookt       | rookte        | rookten       | to smoke                              |
-rollen         | heb gerold        | rolde         | rolden        | to roll                               |
-schamen        | heb geschaamd     | schaamde      | schaamden     | to be ashamed (zich)                  |
-schreeuwen     | heb geschreeuwd   | schreeuwde    | schreeuwden   | to scream, to yell                    |
-schrijven      | heb geschreven    | schreef       | schreven      | to write                              |
-slapen         | heb geslapen      | sliep         | sliepen       | to sleep                              |
-spelen         | heb gespeeld      | speelde       | speelden      | to play                               |
-spreken        | heb gesproken     | sprak         | spraken       | to speak                              |
-slaan          | heb geslagen      | sloeg         | sloegen       | to beat, to hit                       |
-staan          | heb gestaan       | stond         | stonden       | to stand                              |
-stellen        | heb gesteld       | stelde        | stelden       | to position, to state, to put forward |
-studeren       | heb gestudeerd    | studeerde     | studeerden    | to study                              |
-tennissen      | heb getennist     | tenniste      | tennisten     | to play tennis                        |
-trekken        | heb getrokken     | trok          | trokken       | to pull                               |
-uitgaan        | ben uitgegaan     | ging uit      | gingen uit    | to go out                             |
-uitrusten      | heb uitgerust     | rustte uit    | rustten uit   | to rest                               |
-verdelen       | heb verdeeld      | verdeelde     | verdeelden    | to distribute/ to divide (ulestirmek) |
-vergeten       | heb vergeten      | vergat        | vergaten      | to forget                             |
-vergissen      | heb vergist       | vergiste      | vergisten     | to make self mistake (zich)           |
-vertellen      | heb verteld       | vertelde      | vertelden     | to tell                               |
-vertrekken     | ben vertrokken    | vertrok       | vertrokken    | to depart, to leave                   |
-vervelen       | heb verveeld      | verveelde     | verveelden    | to be bored (zich)                    |
-vieren         | heb gevierd       | vierde        | vierden       | to celebrate                          |
-vinden         | heb gevonden      | vond          | vonden        | to find                               |
-volgen         | heb gevolgd       | volgde        | volgden       | to follow                             |
-vragen         | heb gevraagd      | vroeg         | vroegen       | to ask                                |
-vullen         | heb gevuld        | vulde         | vulden        | to fill                               |
-wachten        | heb gewacht       | wachtte       | wachtten      | to wait                               |
-wandelen       | heb gewandeld     | wandelde      | wandelden     | to walk                               |
-wassen         | heb gewassen      | waste         | wasten        | to wash                               |
-werken         | heb gewerkt       | werkte        | werkten       | to work                               |
-weten          | heb geweten       | wist          | wisten        | to know                               |
-wonen          | heb gewoond       | woonde        | woonden       | to live (in a place)                  |
-zien           | heb gezien        | zag           | zagen         | to see                                |
-zijn           | ben geweest       | was           | waren         | to be                                 |
-zitten         | heb gezeten       | zat           | zaten         | to sit                                |
+aankomen       | ben aangekomen    | kwam aan      | kwamen aan    | to arrive
+aanvaarden     | heb aanvaard      | aanvaardde    | aanvaardden   | to accept (for ex: accepting excuses)
+achtervolgen   | heb achtervolgd   | achtervolgde  | achtervolgden | to chase, to pursue
+afspreken      | heb afgesproken   | sprak af      | spraken af    | to arrange
+afwassen       | heb afgewassen    | waste af      | wasten af     | to wash off the dishes
+antwoorden     | heb geantwoord    | antwoordde    | antwoordden   | to answre
+autorijden     | heb autogereden   | reed auto     | reden auto    | to drive car
+bakken         | heb gebakken      | bakte         | bakten        | to bake
+beginnen       | ben begonnen      | begon         | begonnen      | to begin
+bellen         | heb gebeld        | belde         | belden        | to call (by phone), to bell
+bestaan        | heb bestaan       | bestond       | bestonden     | to exist
+bestellen      | heb besteld       | bestelde      | bestelden     | to order
+betalen        | heb betaald       | betaalde      | betaalden     | to pay
+bezoeken       | heb bezocht       | bezocht       | bezochten     | to visit
+bezorgen       | heb bezorgd       | bezorgde      | bezorgden     | to deliver
+blijven        | ben gebleven      | bleef         | bleven        | to stay, to remain
+boeken         | heb geboekt       | boekte        | boekten       | to book, to reserve 
+dansen         | heb gedanst       | danste        | dansten       | to dance
+delen          | heb gedeeld       | deelde        | deelden       | to share
+doen           | heb gedaan        | deed          | deden         | to do
+dragen         | heb gedragen      | droeg         | droegen       | to wear, to carry
+drinken        | heb gedronken     | dronk         | dronken       | to drink
+duwen          | heb geduwd        | duwde         | duwden        | to push
+eten           | heb gegeten       | at            | aten          | to eat
+fietsen        | heb gefietst      | fietste       | fietsten      | to bike
+gaan           | ben gegaan        | ging          | gingen        | to go
+gebruiken      | heb gebruikt      | gebruikte     | gebruikten    | to use
+genieten       | heb genieten      | genoot        | genoten       | to enjoy
+geven          | heb gegeven       | gaf           | gaven         | to give
+haasten        | heb gehaast       | haastte       | haastten      | to hurry (zich)
+halen          | heb gehaald       | haalde        | haalden       | to fetch, to get
+hangen         | heb gehangen      | hing          | hingen        | to hang
+hebben         | heb gehad         | had           | hadden        | to have
+helpen         | heb geholpen      | hielp         | hielpen       | to help
+herhalen       | heb herhaald      | herhaalde     | herhaalden    | to repeat
+herinneren     | heb herinnerd     | herinnerde    | herinnerden   | to remember (zich)
+heten          | heb geheten       | heette        | heetten       | to be named, to be called
+horen          | heb gehoord       | hoorde        | hoorden       | to hear
+houden         | heb gehouden      | hield         | hielden       | to keep
+houden van     | heb gehouden van  | hield van     | hielden van   | to love
+inschrijven    | heb ingeschreven  | schreef in    | schreven in   | to register
+invullen       | heb ingevuld      | vulde in      | vulden in     | to fill in
+kennen         | heb gekend        | kende         | kenden        | to know
+kijken         | heb gekeken       | keek          | keken         | to look / to watch
+koken          | heb gekookt       | kookte        | kookten       | to cook
+komen          | ben gekomen       | kwam          | kwamen        | to come
+kopen          | heb gekocht       | kocht         | kochten       | to buy
+krijgen        | heb gekregen      | kreeg         | kregen        | to get, to receive
+laten          | heb gelaten       | liet          | lieten        | to let
+lenen          | heb geleend       | leende        | leenden       | to borrow
+leren          | heb geleerd       | leerde        | leerden       | to learn, to teach
+leven          | heb geleefd       | leefde        | leefden       | to live
+lezen          | heb gelezen       | las           | lazen         | to read
+liegen         | heb gelogen       | loog          | logen         | to lie, to tell lies
+liggen         | heb gelegen       | lag           | lagen         | to lie, to be lying down
+lopen          | heb gelopen       | liep          | liepen        | to walk
+luisteren      | heb geluisterd    | luisterde     | luisterden    | to listen
+maken          | heb gemaakt       | maakte        | maakten       | to make
+meenemen       | heb meegenomen    | nam mee       | namen mee     | to take along, to carry off/along
+missen         | heb gemist        | miste         | misten        | to miss
+nakijken       | heb nagekeken     | keek na       | keken na      | to check, to review
+nemen          | heb genomen       | nam           | namen         | to take
+oefenen        | heb geoefend      | oefende       | oefenden      | to exercise, to practice, to train
+omschrijven    | heb omschreven    | omschreef     | omschreven    | to describe
+ondervragen    | heb ondervraagd   | ondervroeg    | ondervroegen  | to interrogate
+opendoen       | heb opengedaan    | deed open     | deden open    | to open
+opstaan        | ben opgestaan     | stond op      | stonden op    | to get up
+organiseren    | heb georganiseerd | organiseerde  | organiseerden | to organize
+overtuigen     | heb overtuigd     | overtuigde    | overtuigden   | to convince
+parkeren       | heb geparkeerd    | parkeerde     | parkeerden    | to park
+praten         | heb gepraat       | praatte       | praatten      | to talk
+regenen        | heb geregend      | regende       | regenden      | to rain
+regeren        | heb geregeerd     | regeerde      | regeerden     | to govern, to rule
+repareren      | heb gerepareerd   | repareerde    | repareerden   | to repair
+rijden         | heb gereden       | reed          | reden         | to ride
+rinkelen       | heb gerinkeld     | rinkelde      | rinkelden     | to ring, to make ringing sound
+roken          | heb gerookt       | rookte        | rookten       | to smoke
+rollen         | heb gerold        | rolde         | rolden        | to roll
+schamen        | heb geschaamd     | schaamde      | schaamden     | to be ashamed (zich)
+scheren        | heb geschoren     | schoor        | schoren       | to shave
+schreeuwen     | heb geschreeuwd   | schreeuwde    | schreeuwden   | to scream, to yell
+schrijven      | heb geschreven    | schreef       | schreven      | to write
+slapen         | heb geslapen      | sliep         | sliepen       | to sleep
+snijden        | heb gesneden      | sneed         | sneden        | to cut
+spelen         | heb gespeeld      | speelde       | speelden      | to play
+spreken        | heb gesproken     | sprak         | spraken       | to speak
+slaan          | heb geslagen      | sloeg         | sloegen       | to beat, to hit
+staan          | heb gestaan       | stond         | stonden       | to stand
+stellen        | heb gesteld       | stelde        | stelden       | to position, to state, to put forward
+studeren       | heb gestudeerd    | studeerde     | studeerden    | to study
+tennissen      | heb getennist     | tenniste      | tennisten     | to play tennis
+trekken        | heb getrokken     | trok          | trokken       | to pull
+uitgaan        | ben uitgegaan     | ging uit      | gingen uit    | to go out
+uitrusten      | heb uitgerust     | rustte uit    | rustten uit   | to rest
+verdelen       | heb verdeeld      | verdeelde     | verdeelden    | to distribute/ to divide (ulestirmek)
+vergeten       | heb vergeten      | vergat        | vergaten      | to forget
+vergissen      | heb vergist       | vergiste      | vergisten     | to make self mistake (zich)
+vertellen      | heb verteld       | vertelde      | vertelden     | to tell
+vertrekken     | ben vertrokken    | vertrok       | vertrokken    | to depart, to leave
+verslikken     | heb verslikt      | verslikte     | verslikten    | to choke, to swallow wrong (zich)
+verspreken     | heb versproken    | versprak      | verspraken    | to misspeak (zich)
+vervelen       | heb verveeld      | verveelde     | verveelden    | to be bored (zich)
+vieren         | heb gevierd       | vierde        | vierden       | to celebrate
+vinden         | heb gevonden      | vond          | vonden        | to find
+volgen         | heb gevolgd       | volgde        | volgden       | to follow
+vragen         | heb gevraagd      | vroeg         | vroegen       | to ask
+vullen         | heb gevuld        | vulde         | vulden        | to fill
+wachten        | heb gewacht       | wachtte       | wachtten      | to wait
+wandelen       | heb gewandeld     | wandelde      | wandelden     | to walk
+wassen         | heb gewassen      | waste         | wasten        | to wash
+werken         | heb gewerkt       | werkte        | werkten       | to work
+weten          | heb geweten       | wist          | wisten        | to know
+wonen          | heb gewoond       | woonde        | woonden       | to live (in a place)
+zien           | heb gezien        | zag           | zagen         | to see
+zijn           | ben geweest       | was           | waren         | to be
+zitten         | heb gezeten       | zat           | zaten         | to sit
 
 [Go back to TOC](#toc)
 

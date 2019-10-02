@@ -38,6 +38,7 @@ heten               heb geheten         heette          heetten             to b
 horen               heb gehoord         hoorde          hoorden             to hear
 houden              heb gehouden        hield           hielden             to keep
 houden van          heb gehouden van    hield van       hielden van         to love
+inschrijven         heb ingeschreven    schreef in      schreven in         to register
 invullen            heb ingevuld        vulde in        vulden in           to fill in
 kennen              heb gekend          kende           kenden              to know
 kijken              heb gekeken         keek            keken               to look / to watch
@@ -76,9 +77,11 @@ rinkelen            heb gerinkeld       rinkelde        rinkelden           to r
 roken               heb gerookt         rookte          rookten             to smoke
 rollen              heb gerold          rolde           rolden              to roll
 schamen             heb geschaamd       schaamde        schaamden           to be ashamed (zich)
+scheren             heb geschoren       schoor          schoren             to shave
 schreeuwen          heb geschreeuwd     schreeuwde      schreeuwden         to scream, to yell
 schrijven           heb geschreven      schreef         schreven            to write
 slapen              heb geslapen        sliep           sliepen             to sleep
+snijden             heb gesneden        sneed           sneden              to cut
 spelen              heb gespeeld        speelde         speelden            to play
 spreken             heb gesproken       sprak           spraken             to speak
 slaan               heb geslagen        sloeg           sloegen             to beat, to hit
@@ -94,6 +97,8 @@ vergeten            heb vergeten        vergat          vergaten            to f
 vergissen           heb vergist         vergiste        vergisten           to make self mistake (zich)
 vertellen           heb verteld         vertelde        vertelden           to tell
 vertrekken          ben vertrokken      vertrok         vertrokken          to depart, to leave
+verslikken          heb verslikt        verslikte       verslikten          to choke, to swallow wrong (zich)
+verspreken          heb versproken      versprak        verspraken          to misspeak (zich)
 vervelen            heb verveeld        verveelde       verveelden          to be bored (zich)
 vieren              heb gevierd         vierde          vierden             to celebrate
 vinden              heb gevonden        vond            vonden              to find

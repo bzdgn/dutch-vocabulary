@@ -90,21 +90,24 @@ to prevent      to appear
 
 Reflexive Verbs
 ---------------
-zich vergissen
-zich herinneren
-zich schamen
-zich vervelen
-zich haasten
-zich verslikken
-zich verspreken
+zich vergissen          to make self mistake
+zich herinneren         to remember
+zich schamen            to be ashamed
+zich vervelen           to be bored
+zich haasten            to hurry
+zich verslikken         to choke, to swallow wrong
+zich verspreken         to misspeak
 
 
 Reflexive Verbs by Accident
 ---------------------------
-(zich) wassen
-(zich) scheren
-(zich) snijden
-(zich) inschrijven (separable)
+(zich) wassen                       to wash (+ self)
+(zich) scheren                      to shave (+ self)
+(zich) snijden                      to cut (+ self)
+(zich) inschrijven (separable)      to register (+ self)
+
+Reflexive Pronouns
+------------------
 
 pr.         vorm
 --------|------
