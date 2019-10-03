@@ -114,3 +114,4 @@ wonen               heb gewoond         woonde          woonden             to l
 zien                heb gezien          zag             zagen               to see
 zijn                ben geweest         was             waren               to be
 zitten              heb gezeten         zat             zaten               to sit
+zwemmen             heb gezwommen       zwom            zwommen             to swim

@@ -121,4 +121,12 @@ jullie  |   je
 zij     |   zich
 
 
+Pronouns for things
+-------------------
+het boek:   Het is heel spannend.
+de bal:     Hij is rond.
+
+Het woords -> het
+De  woords -> hij
+
 

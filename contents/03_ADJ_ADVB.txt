@@ -13,6 +13,7 @@ binnenkort      shortly
 blauw           blue
 boos            angry
 boven           above, upstairs
+bruikbaar       useful
 buiten          outside
 daar            there
 dik             fat
@@ -67,6 +68,7 @@ nog             yet
 nog steeds      still
 nogal           quite
 nu              now
+nuttig          helpful, useful
 onder           below
 ongeveer        about, approximately
 ongezellig      not cozy

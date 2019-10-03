@@ -1,3 +1,6 @@
+de  aardappel           potato
+de  aardbei             strawberry
+de  aarde               earth
 de  achternaam          last name
 de  acteur              actor
 de  actrice             actress
@@ -9,18 +12,24 @@ het antwoord            answer
 de  appel               apple
 de  auto                car
 de  avond               evening
+het avondeten           dinner
 de  baby                baby
 het bad                 bath
 de  bakker              baker
 de  bal                 ball
 de  ballon              balloon
+de  banaan              banana
 het bed                 bed
+de  beer                bear
 de  belofte             promise
 het bericht             message
 het bezoek              visit
 de  bioscoop            movie theater
 de  bloem               flower
 de  bloembol            flower bulb
+het bord                plate, board (blackboard)
+de  boter               butter
+de  boterham            sandwich
 de  brief               letter
 het boek                book
 de  boer                farmer
@@ -29,6 +38,7 @@ de  boodschap           message
 de  boom                tree
 het bos                 forest
 de  bril                pair of glasses
+de  broek               pants
 de  broer               brother
 het brood               bread
 de  bus                 bus
@@ -49,6 +59,7 @@ het doosje              (little box, turkce: kap)
 het dorp                village
 de  douche              shower (dus)
 de  duif                pigeon
+de  eend                duck
 de  eerlijkheid         honesty
 het ei                  egg
 het einde               end (formal)
@@ -63,24 +74,31 @@ de  film                film/movie
 de  fles                bottle
 de  foto                photo
 de  fout                error, mistake
+de  gans                goose
 de  gast                guest
 het gedicht             poem
 het geld                money
 het geluid              sound
 de  getuige             witness
 het gezicht             face
+het glas                glass
 de  groente             vegetable
+de  grond               ground
 de  hamburger           hamburger
 de  hand                hand
 de  helft               half
+het hemd                shirt
 de  herfst              autumn
+het hert                deer
 de  hobby               hobby
 het hok                 animals shelter (cage)
+de  hoed                hat
 de  hoek                corner
 de  hond                dog
 de  honger              hunger
 het hoofd               head
 het hoofdkantoor        head office
+de  hoorn               horn
 het huis                house
 het huiswerk            homework
 het idee                idea
@@ -100,8 +118,12 @@ de  kapper              hairdresser
 de  kast                wardrope, closet
 de  kat                 cat
 het kind                child
+de  kip                 chicken
 het kleinkind           grandchild
+de  kleren              clothes
 de  klok                clock
+de  klomp               clog
+de  koe                 cow
 het koekje              cookie
 de  koffie              coffee
 de  kok                 cook
@@ -109,6 +131,7 @@ het konijn              rabbit
 de  koning              king
 de  koningin            queen
 de  krant               newspaper
+de  krab                crab
 de  kroeg               pub
 de  kus                 kiss
 het kussen              pillow
@@ -125,29 +148,37 @@ het lid                 member
 het liedje              song
 het lidwoord            article
 de  lijn                line
+de  maaltijd            meal
 de  maand               month
 de  man                 man
 de  mand                basket
 de  map                 folder (computer folder, directory also)
 de  markt               market
+de  meid                maid
 het meisje              girl
 de  melk                milk
 de  mens                human
 de  mensen              people
+het menu                menu
 het mes                 knife
+het middageten          lunch
 de  minuut              minute
 het model               model (model)
 de  modem               modem
 de  moeder              mother
 het moment              moment
 de  morgen              tomorrow
+de  muis                mouse
 de  muziek              music
 de  nacht               night
 de  naam                name
 de  neus                nose
+de  neushoorn           rhinoceros
 het niveau              level
 de  ochtend             morning
 de  oefening            exercise
+de  olifant             elephant
+het ondergoed           underwear
 het oog                 eye
 het oor                 ear
 het orkest              orchestra
@@ -156,12 +187,14 @@ het paard               horse
 de  pad                 toad
 het pad                 path
 de  pagina              page
+het pak                 suit
 de  pakket              package, packet
 het papier              paper
 de  paraplu             umbrella
 het park                park
 de  pauze               break, pause
 de  pen                 pencil
+de  peper               pepper
 de  persoon             person
 de  pet                 cap
 de  plaats              place
@@ -177,22 +210,30 @@ de  regel               rule
 de  regen               rain
 de  rekening            bill
 de  richting            direction
+de  rijst               rice
+de  rok                 skirt
 de  rose                rose
+het sap                 juice
+het schaap              sheep
 de  schaar              scissors
 de  schat               treasure, honey, darling
 het schild              shield
+de  schildpad           turtle
 de  schoen              shoe
 de  school              school
 de  schrijver           writer
 de  schuur              daily use: bike shed, etymological: barn (ahir, ambar), 
+de  sinaasappel         orange
 het slapen              sleeping
 de  sleutel             key
 de  smartphone          smartphone
 het snoep               candy (also de snoep het/de snoep)
 de  soep                soup
+de  sok                 sock
 de  speeddate           speeddate
 het spel                game, playing (musical)
 het spelletje           game
+de  spin                spider
 de  sportschool         gym
 het spul                stuff, junk
 de  spullen             stuff(plural)
@@ -227,9 +268,11 @@ de  trein               train
 de  trui                sweater
 de  tuin                garden
 de  tv                  tv
+de  uil                 owl
 de  universiteit        university
 het uur                 hour
 de  vakantie            vacation, holidays
+het varken              pig
 het Verenigd Koninkrijk the UK
 de  Verenigde Staten    the USA
 de  vergelijking        comparison
@@ -237,7 +280,9 @@ het verhaal             story
 de  verjaardag          birthday
 de  verpleegkundige     nurse
 de  verrassing          surprise
+de  vis                 fish
 de  voet                foot
+de  vogel               bird
 de  voornaam            first name
 het voorstel            proposal
 de  vork                fork
@@ -255,6 +300,7 @@ de  wei                 pasture, meadow (otlak), grass
 het weekend             weekend
 de  wereld              world
 het werk                work
+de  wijn                wine
 de  winkel              shop
 de  winter              winter
 de  woning              dwelling, home, flat
@@ -271,4 +317,5 @@ de  zomer               summer
 de  zon                 sun
 de  zoon                son
 de  zonneschijn         sunshine
+het zout                salt
 de  zus                 sister
