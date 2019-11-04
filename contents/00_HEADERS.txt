@@ -30,3 +30,15 @@ werkwoord + infinitief                          verb + infinitive
 scheidbare werkwoorden                          separable verbs
 onscheidbare werkwoorden                        inseparable verbs
 wederkerende werkwoorden                        reflexive verbs
+de gebiedende wijs                              the imperative
+werkwoorden + te + infinitief                   -
+voorzetsels + werkwoorden                       -
+het bijvoeglijk naamwoord                       adjective
+ontkenning                                      negation
+werkwoord + te + infinitief                     -
+aan + het + infinitief                          -
+vraagwoorden                                    question words
+het meervoud                                    plural
+de voltooide tijd / perfectum                   present perfect
+het voltooid deelwoord                          past participle
+de verleden tijd                                past tense

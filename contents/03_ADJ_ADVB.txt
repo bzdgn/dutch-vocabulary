@@ -1,9 +1,14 @@
 aan             on
 af              off
+afgelopen       last, past, finished
 aardig          nice
 achter          behind
 al              already
+alle            all the ..., all
 alleen          only, alone
+allemaal        all of them, everybody, everything, altogether
+allerlei        all kinds of
+alles           everything, anything
 altijd          always
 arm             poor
 behalve         except
@@ -11,9 +16,11 @@ bijna           almost
 binnen          inside
 binnenkort      shortly
 blauw           blue
+blij            happy
 boos            angry
 boven           above, upstairs
 bruikbaar       useful
+bruin           brown
 buiten          outside
 daar            there
 dik             fat
@@ -23,32 +30,46 @@ druk            busy, crowded
 dun             thin
 duur            expensive
 eerlijk         fair, fairly, honest, honestly
+eng             scary
 erg             very much / severe, terrible, awful
+fluwelen        velvet (substance)
 fout            wrong, incorrect
-gezellig        cozy
-gisteren        yesterday
+geel            yellow
+gelukkig        happy, happily
 genoeg          enough
 gewoon          just(adv), regular, ordinary, normal(adj)
+gezellig        cozy
+gisteren        yesterday
+glad            slippery
 goed            good
 goedkoop        cheap
+gouden          golden (substance)
 graag           gladly, willingly
+grijs           gray
 groen           green
 groot           big, large, tall
 jarig           having one's birthday (Hij is jarig)
 hard            hard
 hartstikke      extremily, (awful)
 heel            very/much
+heerlijk        delicious
+hele            whole
 hier            here
 hoog            high
+iedereen        everyone, everybody, anyone
+iemand          somebody, someone, anybody
+iets            something
 in              in
 interessant     interesting
+kartonnen       cardboard (karton) (substance)
 klein           small
+kleurrijk       colourful
 knap            good looking
 kort            short
 koud            cold
 laag            low
 laat            late
-lang            long
+lang            long, tall
 langzaam        slow
 leeg            empty
 lekker          tasty, yummy
@@ -56,7 +77,9 @@ lelijk          ugly
 leuk            nice
 licht           light
 lief            sweet, cute, lovely
+maar            but, only, just
 meestal         mostly, usually
+men             one (=ieamand), they
 met             with
 moe             tired
 moeilijk        difficult
@@ -70,26 +93,36 @@ nogal           quite
 nu              now
 nuttig          helpful, useful
 onder           below
+oneindig        infinite, endless
 ongeveer        about, approximately
 ongezellig      not cozy
+ontzettend      appallingly, incredibly
+onvoldoende     insufficient
 onzijdig        neutral
 op              on
 op dit moment   at the moment
+oranje          orange
 oud             old
+paars           purple
 pas             only
 plat            flat
+prachtig        splendid, marvelous, gorgeous
 redelijk        reasonable
 regelmatig      regularly
 religieus       religious
 rijk            rich
+romantisch      romantic
 rond            round, around
 rood            red
+rose            pink
 rustig          quiet
 saai            boring
+samen           together
 schoon          clean
 slecht          bad
 slim            smart
 snel            fast, quick, rapid
+sommige         some
 soms            sometimes
 spannend        exciting
 sporadisch      sporadically
@@ -102,20 +135,31 @@ uit             out, from
 vaak            often
 vandaag         today
 vandaan         from
+veel            much, many, a lot of
 ver             far
+verliefd        in love
+verscheiden     several, various
+verschillend    different, various
 verschrikkelijk terribly
 vies            dirty
 vol             full
+voldoende       sufficient
 volgend         next
 volgens         according to
 voor            in front of, before
+vorig           previous
+vroeger         earlier, formerly, previously, back in the days
 vreemd          strange
+vrij            free
 vuil            dirty
 warm            warm
+weinig          few, not many, not much
+wit             white
 zacht           soft
 zeer            very/much
 zelden          rarely
 ziek            sick
 zo              so
 zonder          without
+zuur            sour
 zwart           black

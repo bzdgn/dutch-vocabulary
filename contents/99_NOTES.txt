@@ -130,3 +130,123 @@ Het woords -> het
 De  woords -> hij
 
 
+Important Note:
+---------------
+het mooie huis
+dat mooie huis
+dit mooie huis
+een mooi huis
+
+Reading Hours
+-------------
+20.00 uur --> acht uur s' avonds
+
+
+Werkwoorden + voorzetsel
+------------------------
+wachten op
+denken aan
+sturen naar
+kijken naar
+hopen op
+verlangen naar (longing for)
+genieten van
+bang zijn voor
+verliefd zijn op
+blij zijn met
+lezen over
+twijfel over (doubts over)
+smaken naar (tastes like)
+schrikken van (scared of)
+luisteren naar (listen to)
+zorgen voor (take care of)
+zijn verliefd op (to be in love)
+spreken tegen (speaking to)
+spelen tegen (play against)
+
+
+Demonstrative pronouns replaces the definite article
+
+
+.              |definite                |   indefinite
+===============|========================|=======================
+de woord       |de mooie vrouw          |   een mooie vrouw
+.              |deze oude fiets         |   - zwarte koffie
+.              |die oude fiets          |   .
+.              |de gouden lepel         |   een gouden lepel
+===============|========================|=======================
+het woord      |het mooie huis          |   een mooi huis
+.              |dit groene boek         |   - zwart geld
+.              |dat groene boek         |   .
+.              |het gouden horloge      |   een gouden horloge
+
+
+Note: For uncountable nouns;
+
+If an adjective used with an uncountable noun, adjective is
+affected as if it is used with "een".
+
+de zwarte koffie    -> zwarte koffie
+het zwarte geld     -> zwart  geld
+
+Note: When the adjective is a substance the ending is always "en"
+
+goud    -> een  gouden      ring
+goud    -> de   gouden      ring
+karton  -> het  kartonnen   dooesje
+fluweel -> een  fluwelen    doosje
+
+Substance adj always gets -en.
+
+Complex Vocabulary
+------------------
+de zilveren lepel       -> silver spoon
+een wollen trui         -> wool sweater
+een stenen vaas         -> stone vase
+het papieren pakje      -> paper packet
+een houten schuurtje    -> wooden shed
+een ijzeren hek         -> iron fence
+de gouden lepel         -> golden spoon
+een gouden horloge      -> golden wristwatch
+
+
+Rules;
+------
+1- Adjectives after a "demonstrative" pronoun.
+-> follow the de and het rule
+
+2- Adjectives in front an "uncountable" noun without an indefinite article.
+-> follow the een-rule
+
+3- Adjectives that are "substances"
+-> get -en
+
+
+Note: Negation: Use "geen" in fron of a noun, even if it is an uncountable noun.
+
+Note: Substances and fabrics are uncountable.
+
+geen + noun
+geen = niet een
+
+
+Waar    --> Dingen
+Wie     --> People
+
+
+Pluralst (Latin)
+
+Latin singular          Latin plural
+------------------------------------
+cus                     ci
+um                      a
+
+de politicus            politici
+het museum              musea
+muziek                  -
+koffie                  -
+de medicus              medici
+de musicus              musici
+de datum                data
+het decennium           decennia
+

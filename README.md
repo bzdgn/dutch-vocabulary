@@ -30,10 +30,15 @@ Notify that every noun is saved with the article, because you need to learn ever
 | --- | --- |
 aan             | on
 af              | off
+afgelopen       | last, past, finished
 aardig          | nice
 achter          | behind
 al              | already
+alle            | all the ..., all
 alleen          | only, alone
+allemaal        | all of them, everybody, everything, altogether
+allerlei        | all kinds of
+alles           | everything, anything
 altijd          | always
 arm             | poor
 behalve         | except
@@ -41,9 +46,11 @@ bijna           | almost
 binnen          | inside
 binnenkort      | shortly
 blauw           | blue
+blij            | happy
 boos            | angry
 boven           | above, upstairs
 bruikbaar       | useful
+bruin           | brown
 buiten          | outside
 daar            | there
 dik             | fat
@@ -53,32 +60,46 @@ druk            | busy, crowded
 dun             | thin
 duur            | expensive
 eerlijk         | fair, fairly, honest, honestly
+eng             | scary
 erg             | very much / severe, terrible, awful
+fluwelen        | velvet (substance)
 fout            | wrong, incorrect
-gezellig        | cozy
-gisteren        | yesterday
+geel            | yellow
+gelukkig        | happy, happily
 genoeg          | enough
 gewoon          | just(adv), regular, ordinary, normal(adj)
+gezellig        | cozy
+gisteren        | yesterday
+glad            | slippery
 goed            | good
 goedkoop        | cheap
+gouden          | golden (substance)
 graag           | gladly, willingly
+grijs           | gray
 groen           | green
 groot           | big, large, tall
 jarig           | having one's birthday (Hij is jarig)
 hard            | hard
 hartstikke      | extremily, (awful)
 heel            | very/much
+heerlijk        | delicious
+hele            | whole
 hier            | here
 hoog            | high
+iedereen        | everyone, everybody, anyone
+iemand          | somebody, someone, anybody
+iets            | something
 in              | in
 interessant     | interesting
+kartonnen       | cardboard (karton) (substance)
 klein           | small
+kleurrijk       | colourful
 knap            | good looking
 kort            | short
 koud            | cold
 laag            | low
 laat            | late
-lang            | long
+lang            | long, tall
 langzaam        | slow
 leeg            | empty
 lekker          | tasty, yummy
@@ -86,7 +107,9 @@ lelijk          | ugly
 leuk            | nice
 licht           | light
 lief            | sweet, cute, lovely
+maar            | but, only, just
 meestal         | mostly, usually
+men             | one (=ieamand), they
 met             | with
 moe             | tired
 moeilijk        | difficult
@@ -100,26 +123,36 @@ nogal           | quite
 nu              | now
 nuttig          | helpful, useful
 onder           | below
+oneindig        | infinite, endless
 ongeveer        | about, approximately
 ongezellig      | not cozy
+ontzettend      | appallingly, incredibly
+onvoldoende     | insufficient
 onzijdig        | neutral
 op              | on
 op dit moment   | at the moment
+oranje          | orange
 oud             | old
+paars           | purple
 pas             | only
 plat            | flat
+prachtig        | splendid, marvelous, gorgeous
 redelijk        | reasonable
 regelmatig      | regularly
 religieus       | religious
 rijk            | rich
+romantisch      | romantic
 rond            | round, around
 rood            | red
+rose            | pink
 rustig          | quiet
 saai            | boring
+samen           | together
 schoon          | clean
 slecht          | bad
 slim            | smart
 snel            | fast, quick, rapid
+sommige         | some
 soms            | sometimes
 spannend        | exciting
 sporadisch      | sporadically
@@ -132,22 +165,33 @@ uit             | out, from
 vaak            | often
 vandaag         | today
 vandaan         | from
+veel            | much, many, a lot of
 ver             | far
+verliefd        | in love
+verscheiden     | several, various
+verschillend    | different, various
 verschrikkelijk | terribly
 vies            | dirty
 vol             | full
+voldoende       | sufficient
 volgend         | next
 volgens         | according to
 voor            | in front of, before
+vorig           | previous
+vroeger         | earlier, formerly, previously, back in the days
 vreemd          | strange
+vrij            | free
 vuil            | dirty
 warm            | warm
+weinig          | few, not many, not much
+wit             | white
 zacht           | soft
 zeer            | very/much
 zelden          | rarely
 ziek            | sick
 zo              | so
 zonder          | without
+zuur            | sour
 zwart           | black
 
 
@@ -170,21 +214,27 @@ de  | afwas               | dishes
 de  | agenda              | agenda
 het | antwoord            | answer
 de  | appel               | apple
+de  | architect           | architect
 de  | auto                | car
 de  | avond               | evening
 het | avondeten           | dinner
+de  | baas                | boss
 de  | baby                | baby
 het | bad                 | bath
 de  | bakker              | baker
 de  | bal                 | ball
 de  | ballon              | balloon
 de  | banaan              | banana
+de  | bank                | bank
 het | bed                 | bed
+het | bedrijf             | company
 de  | beer                | bear
 de  | belofte             | promise
 het | bericht             | message
 het | bezoek              | visit
 de  | bioscoop            | movie theater
+het | blad                | lief
+het | blauw               | blue
 de  | bloem               | flower
 de  | bloembol            | flower bulb
 het | bord                | plate, board (blackboard)
@@ -201,15 +251,24 @@ de  | bril                | pair of glasses
 de  | broek               | pants
 de  | broer               | brother
 het | brood               | bread
+de  | bruine              | brown
+het | buitenland          | abroad
 de  | bus                 | bus
+de  | buurman             | neighbor (man)
+de  | buurt               | neighbourhood
+de  | buurvrouw           | neighbor (woman)
 het | café (cafe)         | cafe
 de  | camera              | camera
 de  | cd                  | cd
+het | conservatorium      | conservatory
 de  | courgette           | zucchini
 de  | crimineel           | criminal
 de  | cursus              | course
 de  | dader               | perpetrator
 de  | dag                 | day
+de  | datum               | date
+het | decennium           | decade
+de  | deur                | door
 het | dier                | animal
 de  | docent              | teacher
 de  | dochter             | daughter
@@ -222,8 +281,10 @@ de  | duif                | pigeon
 de  | eend                | duck
 de  | eerlijkheid         | honesty
 het | ei                  | egg
+het | eiland              | island
 het | einde               | end (formal)
 het | eind                | end, short length, travel distance (informal)
+het | elftal              | team (football team)
 het | eten                | food
 het | examen              | exam
 het | excuus              | excuse
@@ -232,20 +293,29 @@ het | feest               | party
 de  | fiets               | bike
 de  | film                | film/movie
 de  | fles                | bottle
+het | fluweel             | velvet
 de  | foto                | photo
 de  | fout                | error, mistake
 de  | gans                | goose
 de  | gast                | guest
 het | gedicht             | poem
+het | geel                | yellow
 het | geld                | money
 het | geluid              | sound
 de  | getuige             | witness
 het | gezicht             | face
+het | gezin               | family (main)
 het | glas                | glass
+het | goed                | goods (singular)
+de  | goederen            | goods (use this form)
+het | goud                | gold
+de  | groene              | green
 de  | groente             | vegetable
 de  | grond               | ground
 de  | hamburger           | hamburger
 de  | hand                | hand
+het | heelal              | universe
+het | hek                 | fence
 de  | helft               | half
 het | hemd                | shirt
 de  | herfst              | autumn
@@ -254,16 +324,20 @@ de  | hobby               | hobby
 het | hok                 | animals shelter (cage)
 de  | hoed                | hat
 de  | hoek                | corner
+de  | hoeveelheid         | quantity, amount
 de  | hond                | dog
 de  | honger              | hunger
 het | hoofd               | head
 het | hoofdkantoor        | head office
 de  | hoorn               | horn
+het | horloge             | watch
+het | hout                | wood
 het | huis                | house
 het | huiswerk            | homework
 het | idee                | idea
 het | ijs                 | ice
 het | ijsje               | icecream
+het | ijzer               | iron
 de  | informatie          | information
 het | jaar                | year
 de  | jas                 | jacket
@@ -271,16 +345,19 @@ de  | jongen              | boy
 de  | jurk                | dress
 de  | kaart               | map
 de  | kaas                | cheese
+het | kalf                | calv
 de  | kamer               | room
 de  | kantine             | canteen
 het | kantoor             | office
 de  | kapper              | hairdresser
+het | karton              | cardboard
 de  | kast                | wardrope, closet
 de  | kat                 | cat
 het | kind                | child
 de  | kip                 | chicken
 het | kleinkind           | grandchild
 de  | kleren              | clothes
+de  | kleur               | color
 de  | klok                | clock
 de  | klomp               | clog
 de  | koe                 | cow
@@ -290,37 +367,47 @@ de  | kok                 | cook
 het | konijn              | rabbit
 de  | koning              | king
 de  | koningin            | queen
+het | koor                | choir
+de  | kracht              | power
 de  | krant               | newspaper
 de  | krab                | crab
 de  | kroeg               | pub
+de  | kunst               | art
 de  | kus                 | kiss
 het | kussen              | pillow
 de  | kwart               | quarter
 de  | lamp                | lamp
 het | land                | land
+het | landschap           | landscape
 het | lawaai              | noise
 de  | lente               | spring
 de  | lepel               | spoon
 de  | les                 | lesson
 het | leven               | life
+de  | letterkunde         | literature
 het | licht               | light
 het | lid                 | member
+het | lied                | song
 het | liedje              | song
 het | lidwoord            | article
 de  | lijn                | line
 de  | maaltijd            | meal
 de  | maand               | month
+de  | macht               | power
 de  | man                 | man
 de  | mand                | basket
 de  | map                 | folder (computer folder, directory also)
 de  | markt               | market
+de  | medicus             | doctor, physician
 de  | meid                | maid
 het | meisje              | girl
 de  | melk                | milk
+de  | meneer              | sir, mister
 de  | mens                | human
 de  | mensen              | people
 het | menu                | menu
 het | mes                 | knife
+de  | mevrouw             | madame, lady
 het | middageten          | lunch
 de  | minuut              | minute
 het | model               | model (model)
@@ -329,25 +416,33 @@ de  | moeder              | mother
 het | moment              | moment
 de  | morgen              | tomorrow
 de  | muis                | mouse
+het | museum              | museum
+de  | musicus             | musician
 de  | muziek              | music
 de  | nacht               | night
 de  | naam                | name
 de  | neus                | nose
 de  | neushoorn           | rhinoceros
 het | niveau              | level
+het | nummer              | number
 de  | ochtend             | morning
 de  | oefening            | exercise
 de  | olifant             | elephant
+de  | omelet              | omelet
 het | ondergoed           | underwear
+het | onweer              | thunderstorm
 het | oog                 | eye
 het | oor                 | ear
+het | oranje              | orange
 het | orkest              | orchestra
 de  | ouder               | parent
 het | paard               | horse
+de  | paarse              | purple
 de  | pad                 | toad
 het | pad                 | path
 de  | pagina              | page
 het | pak                 | suit
+?   | pakje               | ? (package ?)
 de  | pakket              | package, packet
 het | papier              | paper
 de  | paraplu             | umbrella
@@ -359,8 +454,11 @@ de  | persoon             | person
 de  | pet                 | cap
 de  | plaats              | place
 het | podium              | stage
+de  | politicus           | politician
 de  | politie             | police
 de  | pop                 | doll
+de  | prins               | prince
+de  | prinses             | princess
 de  | provincie           | province
 de  | raaf                | raven
 het | raam                | window
@@ -369,16 +467,24 @@ de  | reden               | reason
 de  | regel               | rule
 de  | regen               | rain
 de  | rekening            | bill
+het | resultaat           | result
 de  | richting            | direction
 de  | rijst               | rice
+de  | ring                | ring
+het | rode                | red
 de  | rok                 | skirt
 de  | rose                | rose
+de  | roze                | pink
+het | rund                | cow, bovine, idiot
 het | sap                 | juice
 het | schaap              | sheep
 de  | schaar              | scissors
 de  | schat               | treasure, honey, darling
+de  | schijn              | shine
 het | schild              | shield
+het | schilderij          | painting
 de  | schildpad           | turtle
+het | schip               | ship
 de  | schoen              | shoe
 de  | school              | school
 de  | schrijver           | writer
@@ -386,6 +492,7 @@ de  | schuur              | daily use: bike shed, etymological: barn (ahir, amba
 de  | sinaasappel         | orange
 het | slapen              | sleeping
 de  | sleutel             | key
+het | slot                | lock
 de  | smartphone          | smartphone
 het | snoep               | candy (also de snoep het/de snoep)
 de  | soep                | soup
@@ -397,14 +504,18 @@ de  | spin                | spider
 de  | sportschool         | gym
 het | spul                | stuff, junk
 de  | spullen             | stuff(plural)
+het | staal               | steel
 de  | staart              | tail
 de  | stad                | city
 de  | stamppot            | stamppot (dutch food)
 de  | stem                | voice
+de  | steen               | stone
+de  | stoel               | chair
 de  | straat              | street
 de  | straf               | punishment
 de  | student             | student
 de  | suiker              | sugar
+de  | supermarkt          | supermarket
 de  | taal                | language
 de  | taart               | pie
 de  | tablet              | tablet (pad)
@@ -423,16 +534,21 @@ het | theater             | theatre
 de  | thee                | tea
 de  | tijd                | time
 het | tijdschrift         | magazine, journal
+de  | toets               | button, key, test
 de  | tomaat              | tomato
 de  | trein               | train
 de  | trui                | sweater
 de  | tuin                | garden
 de  | tv                  | tv
 de  | uil                 | owl
+de  | uitroep             | exclamation
+het | uitroepteken        | exclamation point
 de  | universiteit        | university
 het | uur                 | hour
+de  | vaas                | vase
 de  | vakantie            | vacation, holidays
 het | varken              | pig
+de  | vegetariër          | vegetarian
 het | Verenigd Koninkrijk | the UK
 de  | Verenigde Staten    | the USA
 de  | vergelijking        | comparison
@@ -441,18 +557,24 @@ de  | verjaardag          | birthday
 de  | verpleegkundige     | nurse
 de  | verrassing          | surprise
 de  | vis                 | fish
+de  | vlag                | flag
+het | vlees               | meat
 de  | voet                | foot
 de  | vogel               | bird
+het | volk                | folk, people
+de  | volwassene          | adult
 de  | voornaam            | first name
 het | voorstel            | proposal
 de  | vork                | fork
 de  | vraag               | question
+de  | vrachtwagen         | truck
 de  | vriend              | friend
 de  | vriendin            | girl friend
 de  | vrouw               | woman
 de  | waarschijnlijkheid  | probability
 het | water               | water
 de  | week                | week
+het | weer                | weather
 de  | was                 | laundry
 de  | waslijn             | clothes line
 de  | weg                 | way
@@ -463,15 +585,22 @@ het | werk                | work
 de  | wijn                | wine
 de  | winkel              | shop
 de  | winter              | winter
+de  | witte               | white
+de  | wol                 | wool
+de  | wolf                | wolf
 de  | woning              | dwelling, home, flat
 de  | woonkamer           | living room
 het | woord               | word
 de  | workshop            | workshop
 de  | wortel              | carrot
+het | zand                | sand
 de  | zanger              | singer
 de  | zangeres            | singer
 de  | zee                 | sea
 het | zeeniveau           | sea level
+het | ziekenhuis          | hospital
+de  | zijde               | silk
+het | zilver              | silver
 de  | zin                 | sentence
 de  | zomer               | summer
 de  | zon                 | sun
@@ -479,6 +608,7 @@ de  | zoon                | son
 de  | zonneschijn         | sunshine
 het | zout                | salt
 de  | zus                 | sister
+het | zwart               | black
 
 
 [Go back to TOC](#toc)
